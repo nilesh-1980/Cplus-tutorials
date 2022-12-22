@@ -42,7 +42,7 @@ class TG
             cout << "TG can see " <<endl;
             cout<<"The value of Nilesh age ="<<t.age<<endl;
             
-             cout<<"The value of Nilesh phone ="<<t.phone<<endl<<endl;
+           //  cout<<"The value of Nilesh phone ="<<t.phone<<endl<<endl;
             
         }   
 };
